@@ -1,0 +1,72 @@
+
+Sentence:  My name is Cici Maria
+Parse: [My/PRP$, name/NN, is/VBZ, Cici/NNP, Maria/NNP]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am from Mexico .
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My sister live in the U.S.
+Parse: [My/PRP$, sister/NN, live/VBP, in/IN, the/DT, U.S./NNP]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: live
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My fathers lives in Mexico
+Parse: [My/PRP$, fathers/NNS, lives/VBZ, in/IN, Mexico/NNP]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: lives
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My live in Chicago come husband and children
+Parse: [My/PRP$, live/JJ, in/IN, Chicago/NNP, come/VBP, husband/NN, and/CC, children/NNS]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: come
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My baby Cherry the 3 years my husband his name is Ben the 27 years
+Parse: [My/PRP$, baby/NN, Cherry/NNP, the/DT, 3/CD, years/NNS, my/PRP$, husband/NN, his/PRP$, name/NN, is/VBZ, Ben/JJ, the/DT, 27/CD, years/NNS]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I like Chicago for work
+Parse: [I/PRP, like/VBP, Chicago/NNP, for/IN, work/NN]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  He wants to be home .
+Parse: [He/PRP, wants/VBZ, to/TO, be/VB, home/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
