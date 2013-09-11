@@ -1,0 +1,2248 @@
+
+Sentence:  My name is Cici Maria.
+Parse: [My/PRP$, name/NN, is/VBZ, Cici/NNP, Maria/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am from Mexico .
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My sister live in the US.
+Parse: [My/PRP$, sister/NN, live/VBP, in/IN, the/DT, US/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: live
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My fathers lives in Mexico.
+Parse: [My/PRP$, fathers/NNS, lives/VBZ, in/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: lives
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My live in Chicago come husband and children.
+Parse: [My/PRP$, live/JJ, in/IN, Chicago/NNP, come/VBP, husband/NN, and/CC, children/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: come
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My baby Cherry the 3 years my husband his name is Ben the 27 years.
+Parse: [My/PRP$, baby/NN, Cherry/VBZ, the/DT, 3/CD, years/NNS, my/PRP$, husband/NN, his/PRP$, name/NN, is/VBZ, Ben/VBG, the/DT, 27/CD, years/NNS, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence:  I like Chicago for work.
+Parse: [I/PRP, like/VBP, Chicago/NNP, for/IN, work/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My name is Cici Maria
+Parse: [My/PRP$, name/NN, is/VBZ, Cici/NNP, Maria/NNP]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I am from Mexico.
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My sister live in the U.S.
+Parse: [My/PRP$, sister/NN, live/VBP, in/IN, the/DT, U.S./NNP]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: live
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My fathers lives in Mexico
+Parse: [My/PRP$, fathers/NNS, lives/VBZ, in/IN, Mexico/NNP]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: lives
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My live in Chicago come husband and children
+Parse: [My/PRP$, live/JJ, in/IN, Chicago/NNP, come/VBP, husband/NN, and/CC, children/NNS]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: come
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My baby Cherry the 3 years my husband his name is Ben the 27 years
+Parse: [My/PRP$, baby/NN, Cherry/NNP, the/DT, 3/CD, years/NNS, my/PRP$, husband/NN, his/PRP$, name/NN, is/VBZ, Ben/JJ, the/DT, 27/CD, years/NNS]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I like Chicago for work
+Parse: [I/PRP, like/VBP, Chicago/NNP, for/IN, work/NN]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My name is Maria .
+Parse: [My/PRP$, name/NN, is/VBZ, Maria/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am from Mexico .
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I lives in Chicago .
+Parse: [I/PRP, lives/VBZ, in/IN, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: lives
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I comes to English class for learn and spoken and read .
+Parse: [I/PRP, comes/VBZ, to/TO, English/JJ, class/NN, for/IN, learn/NNP, and/CC, spoken/VBN, and/CC, read/VBN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: comes
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence:  I have four children .
+Parse: [I/PRP, have/VBP, four/CD, children/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My oldest daughter is married .
+Parse: [My/PRP$, oldest/JJS, daughter/NN, is/VBZ, married/VBN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence:  My son is working hospital .
+Parse: [My/PRP$, son/NN, is/VBZ, working/VBG, hospital/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I likes Chicago.
+Parse: [I/PRP, likes/VBZ, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: likes
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I miss Mexico and my family.
+Parse: [I/PRP, miss/VBP, Mexico/NNP, and/CC, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I happy with my family .
+Parse: [I/PRP, happy/JJ, with/IN, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence:  I has live in Chicago for 6 years .
+Parse: [I/PRP, has/VBZ, live/VBP, in/IN, Chicago/NNP, for/IN, 6/CD, years/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: has
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence: My name is Maria.
+Parse: [My/PRP$, name/NN, is/VBZ, Maria/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I am from Mexico.
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I lives in Chicago.
+Parse: [I/PRP, lives/VBZ, in/IN, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: lives
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I comes to English class for learn and spoken and read.
+Parse: [I/PRP, comes/VBZ, to/TO, English/JJ, class/NN, for/IN, learn/NNP, and/CC, spoken/VBN, and/CC, read/VBN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: comes
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence: I have four children.
+Parse: [I/PRP, have/VBP, four/CD, children/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My oldest daughter is married.
+Parse: [My/PRP$, oldest/JJS, daughter/NN, is/VBZ, married/VBN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence: My son is working hospital.
+Parse: [My/PRP$, son/NN, is/VBZ, working/VBG, hospital/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I likes Chicago but I miss Mexico and my family.
+Parse: [I/PRP, likes/VBZ, Chicago/NNP, but/CC, I/PRP, miss/VBP, Mexico/NNP, and/CC, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: likes
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence: I happy with my family.
+Parse: [I/PRP, happy/JJ, with/IN, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence: I has live in Chicago for 6 years.
+Parse: [I/PRP, has/VBZ, live/VBP, in/IN, Chicago/NNP, for/IN, 6/CD, years/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: has
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence:  My name is Camaro .
+Parse: [My/PRP$, name/NN, is/VBZ, Camaro/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am from Mexico , but came to Chicago in 2002 .
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ,/,, but/CC, came/VBD, to/TO, Chicago/NNP, in/IN, 2002/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence:  I like Mexico and Chicago , but sometimes miss my family .
+Parse: [I/PRP, like/VBP, Mexico/NNP, and/CC, Chicago/NNP, ,/,, but/CC, sometimes/RB, miss/VBP, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence:  My family lives in Mexico .
+Parse: [My/PRP$, family/NN, lives/VBZ, in/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I have 4 sons .
+Parse: [I/PRP, have/VBP, 4/CD, sons/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  Their names are Gerardo , Victor , Rodrigo and Cesar .
+Parse: [Their/PRP$, names/NNS, are/VBP, Gerardo/NNP, ,/,, Victor/NNP, ,/,, Rodrigo/NNP, and/CC, Cesar/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I have a father , mother , two sisters and four brothers .
+Parse: [I/PRP, have/VBP, a/DT, father/NN, ,/,, mother/NN, ,/,, two/CD, sisters/NNS, and/CC, four/CD, brothers/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My name is Camaro. 
+Parse: [My/PRP$, name/NN, is/VBZ, Camaro/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I am from Mexico, but came to Chicago in 2002.
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ,/,, but/CC, came/VBD, to/TO, Chicago/NNP, in/IN, 2002/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence: I like Mexico and Chicago, but sometimes miss my family. 
+Parse: [I/PRP, like/VBP, Mexico/NNP, and/CC, Chicago/NNP, ,/,, but/CC, sometimes/RB, miss/VBP, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence: My family lives in Mexico.
+Parse: [My/PRP$, family/NN, lives/VBZ, in/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I have 4 sons. 
+Parse: [I/PRP, have/VBP, 4/CD, sons/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: Their names are Gerardo, Victor, Rodrigo and Cesar.
+Parse: [Their/PRP$, names/NNS, are/VBP, Gerardo/NNP, ,/,, Victor/NNP, ,/,, Rodrigo/NNP, and/CC, Cesar/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I have a father, mother, two sisters and four brothers.
+Parse: [I/PRP, have/VBP, a/DT, father/NN, ,/,, mother/NN, ,/,, two/CD, sisters/NNS, and/CC, four/CD, brothers/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My name is Sabina .
+Parse: [My/PRP$, name/NN, is/VBZ, Sabina/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am from Mexico .
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I came to Chicago in 1986 .
+Parse: [I/PRP, came/VBD, to/TO, Chicago/NNP, in/IN, 1986/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I like Mexico and Chicago .
+Parse: [I/PRP, like/VBP, Mexico/NNP, and/CC, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  Sometimes I miss my family .
+Parse: [Sometimes/RB, I/PRP, miss/VBP, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My family lives in Mexico .
+Parse: [My/PRP$, family/NN, lives/VBZ, in/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My name is Sabina.
+Parse: [My/PRP$, name/NN, is/VBZ, Sabina/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I am from Mexico. 
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I came to Chicago in 1986.
+Parse: [I/PRP, came/VBD, to/TO, Chicago/NNP, in/IN, 1986/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I like Mexico and Chicago.
+Parse: [I/PRP, like/VBP, Mexico/NNP, and/CC, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: Sometimes I miss my family. 
+Parse: [Sometimes/RB, I/PRP, miss/VBP, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My family lives in Mexico.
+Parse: [My/PRP$, family/NN, lives/VBZ, in/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My name is Beatriz .
+Parse: [My/PRP$, name/NN, is/VBZ, Beatriz/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am from El Salvador .
+Parse: [I/PRP, am/VBP, from/IN, El/NNP, Salvador/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I came to Chicago in 1988 .
+Parse: [I/PRP, came/VBD, to/TO, Chicago/NNP, in/IN, 1988/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am 42 years old and married .
+Parse: [I/PRP, am/VBP, 42/CD, years/NNS, old/JJ, and/CC, married/VBN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence:  My husband 's name is Fuser .
+Parse: [My/PRP$, husband/NN, 's/POS, name/NN, is/VBZ, Fuser/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  He is in Chicago .
+Parse: [He/PRP, is/VBZ, in/IN, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I have two boys , a girl and one grandson .
+Parse: [I/PRP, have/VBP, two/CD, boys/NNS, ,/,, a/DT, girl/NN, and/CC, one/CD, grandson/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  He goes to Nixon School .
+Parse: [He/PRP, goes/VBZ, to/TO, Nixon/NNP, School/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  And my grandson is one year old .
+Parse: [And/CC, my/PRP$, grandson/NN, is/VBZ, one/CD, year/NN, old/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  His name is Eddie .
+Parse: [His/PRP$, name/NN, is/VBZ, Eddie/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My name is Beatriz. 
+Parse: [My/PRP$, name/NN, is/VBZ, Beatriz/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I am from El Salvador. 
+Parse: [I/PRP, am/VBP, from/IN, El/NNP, Salvador/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I came to Chicago in 1988.
+Parse: [I/PRP, came/VBD, to/TO, Chicago/NNP, in/IN, 1988/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I am 42 years old and married. 
+Parse: [I/PRP, am/VBP, 42/CD, years/NNS, old/JJ, and/CC, married/VBN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence: My husband's name is Fuser. 
+Parse: [My/PRP$, husband/NN, 's/POS, name/NN, is/VBZ, Fuser/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: He is in Chicago.
+Parse: [He/PRP, is/VBZ, in/IN, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I have two boys, a girl and one grandson. 
+Parse: [I/PRP, have/VBP, two/CD, boys/NNS, ,/,, a/DT, girl/NN, and/CC, one/CD, grandson/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: He goes to Nixon School.
+Parse: [He/PRP, goes/VBZ, to/TO, Nixon/NNP, School/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: And my grandson is one year old. 
+Parse: [And/CC, my/PRP$, grandson/NN, is/VBZ, one/CD, year/NN, old/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: His name is Eddie.
+Parse: [His/PRP$, name/NN, is/VBZ, Eddie/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My friend name Maria H.
+Parse: [My/PRP$, friend/NN, name/NN, Maria/NNP, H./NNP]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence:  he live in Chicago.
+Parse: [he/PRP, live/VBP, in/IN, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: live
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I likes friend telephone She happy with talk to my christmas.
+Parse: [I/PRP, likes/VBZ, friend/NN, telephone/VB, She/PRP, happy/JJ, with/IN, talk/NN, to/TO, my/PRP$, christmas/NNS, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 3
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: likes
+Computing Verb Tense Score: 
+ERROR: Missing TO Verb
+
+Sentence:  she came.
+Parse: [she/PRP, came/VBD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My friend name Maria H he live in Chicago 
+Parse: [My/PRP$, friend/NN, name/VBP, Maria/NNP, H/NNP, he/PRP, live/VBP, in/IN, Chicago/NNP]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: name
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence: I likes friend telephone She happy with talk to my christmas she came
+Parse: [I/PRP, likes/VBZ, friend/NN, telephone/VB, She/PRP, happy/JJ, with/IN, talk/NN, to/TO, my/PRP$, christmas/NNS, she/PRP, came/VBD]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 4
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: likes
+Computing Verb Tense Score: 
+ERROR: Missing TO Verb
+
+Sentence:  My neighbor are very friendly .
+Parse: [My/PRP$, neighbor/NN, are/VBP, very/RB, friendly/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: are
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  They have a black dog .
+Parse: [They/PRP, have/VBP, a/DT, black/JJ, dog/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  They are from Mexico .
+Parse: [They/PRP, are/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  They are friendly people .
+Parse: [They/PRP, are/VBP, friendly/JJ, people/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  Sometimes I borrow milk from them .
+Parse: [Sometimes/RB, I/PRP, borrow/VBP, milk/NN, from/IN, them/PRP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My neighbor are very friendly. 
+Parse: [My/PRP$, neighbor/NN, are/VBP, very/RB, friendly/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: are
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: They have a black dog.
+Parse: [They/PRP, have/VBP, a/DT, black/JJ, dog/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: They are from Mexico. 
+Parse: [They/PRP, are/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: They are friendly people. 
+Parse: [They/PRP, are/VBP, friendly/JJ, people/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: Sometimes I borrow milk from them.
+Parse: [Sometimes/RB, I/PRP, borrow/VBP, milk/NN, from/IN, them/PRP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My name is Bhaskar .
+Parse: [My/PRP$, name/NN, is/VBZ, Bhaskar/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I coming from India .
+Parse: [I/PRP, coming/VBG, from/IN, India/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence:  I has two brothers and one sister .
+Parse: [I/PRP, has/VBZ, two/CD, brothers/NNS, and/CC, one/CD, sister/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: has
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  They cricket watch on television .
+Parse: [They/PRP, cricket/RB, watch/VBP, on/IN, television/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My parents in India .
+Parse: [My/PRP$, parents/NNS, in/IN, India/NNP, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence:  They old people .
+Parse: [They/PRP, old/JJ, people/NNS, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence:  I coming to USA to making money for my family .
+Parse: [I/PRP, coming/VBG, to/TO, USA/NNP, to/TO, making/VBG, money/NN, for/IN, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence: My name is Bhaskar.
+Parse: [My/PRP$, name/NN, is/VBZ, Bhaskar/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I coming from India.
+Parse: [I/PRP, coming/VBG, from/IN, India/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence: I has two brothers and one sister.
+Parse: [I/PRP, has/VBZ, two/CD, brothers/NNS, and/CC, one/CD, sister/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: has
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: They cricket watch on television. 
+Parse: [They/PRP, cricket/RB, watch/VBP, on/IN, television/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My parents in India. 
+Parse: [My/PRP$, parents/NNS, in/IN, India/NNP, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence: They old people.
+Parse: [They/PRP, old/JJ, people/NNS, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence: I coming to USA to making money for my family.
+Parse: [I/PRP, coming/VBG, to/TO, USA/NNP, to/TO, making/VBG, money/NN, for/IN, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence:  My name is Josefina .
+Parse: [My/PRP$, name/NN, is/VBZ, Josefina/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I is 23 year old .
+Parse: [I/PRP, is/VBZ, 23/CD, year/NN, old/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: is
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I from Brasil .
+Parse: [I/PRP, from/IN, Brasil/NNP, ./.]
+Computing Word Order Score: 
+ERROR: verb is at index: -1
+Computing Agreement Score: 
+ERROR: No Verb Found..
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence: My name is Josefina. 
+Parse: [My/PRP$, name/NN, is/VBZ, Josefina/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I is 23 year old.
+Parse: [I/PRP, is/VBZ, 23/CD, year/NN, old/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: is
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I from Brasil.
+Parse: [I/PRP, from/IN, Brasil/NNP, ./.]
+Computing Word Order Score: 
+ERROR: verb is at index: -1
+Computing Agreement Score: 
+ERROR: No Verb Found..
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence:  Name is Rocco .
+Parse: [Name/NN, is/VBZ, Rocco/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  From Panama I come .
+Parse: [From/IN, Panama/NNP, I/PRP, come/VBP, ./.]
+Computing Word Order Score: 
+ERROR: with object at index: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  28 years been in Chicago .
+Parse: [28/CD, years/NNS, been/VBN, in/IN, Chicago/NNP, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence:  I try hard to speak English .
+Parse: [I/PRP, try/VBP, hard/JJ, to/TO, speak/VB, English/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  Tomorrow I going Texas first time .
+Parse: [Tomorrow/VB, I/PRP, going/VBG, Texas/NNP, first/JJ, time/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: Name is Rocco. 
+Parse: [Name/NN, is/VBZ, Rocco/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: From Panama I come.
+Parse: [From/IN, Panama/NNP, I/PRP, come/VBP, ./.]
+Computing Word Order Score: 
+ERROR: with object at index: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: 28 years been in Chicago. 
+Parse: [28/CD, years/NNS, been/VBN, in/IN, Chicago/NNP, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence: I try hard to speak English.
+Parse: [I/PRP, try/VBP, hard/JJ, to/TO, speak/VB, English/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: Tomorrow I going Texas first time.
+Parse: [Tomorrow/VB, I/PRP, going/VBG, Texas/NNP, first/JJ, time/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My dog is big and brown.
+Parse: [My/PRP$, dog/NN, is/VBZ, big/JJ, and/CC, brown/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  it run run everywhere.
+Parse: [it/PRP, run/VBP, run/VB, everywhere/RB, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: run
+Computing Verb Tense Score: 
+ERROR: Missing TO Verb
+
+Sentence:  His name is.
+Parse: [His/PRP$, name/NN, is/VBZ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  Alex is big dog.
+Parse: [Alex/NNP, is/VBZ, big/JJ, dog/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  to eat lots of food he like very much pizza.
+Parse: [to/TO, eat/VB, lots/NNS, of/IN, food/NN, he/PRP, like/VBP, very/RB, much/JJ, pizza/NN, ./.]
+Computing Word Order Score: 
+ERROR: with object at index: 3
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: like
+Computing Verb Tense Score: 
+ERROR: Missing Modal.
+
+Sentence: My dog is big and brown it run run everywhere
+Parse: [My/PRP$, dog/NN, is/VBZ, big/JJ, and/CC, brown/JJ, it/PRP, run/VBP, run/VB, everywhere/RB]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: run
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+ERROR: Missing TO Verb
+
+Sentence: His name is Alex is big dog and like to eat lots of food he like very much pizza.
+Parse: [His/PRP$, name/NN, is/VBZ, Alex/NNP, is/VBZ, big/JJ, dog/NN, and/CC, like/IN, to/TO, eat/VB, lots/NNS, of/IN, food/NN, he/PRP, like/IN, very/RB, much/JJ, pizza/NN, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence:  My name is Angela.
+Parse: [My/PRP$, name/NN, is/VBZ, Angela/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I From Mexico.
+Parse: [I/PRP, From/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence:  I came the US in 1998.
+Parse: [I/PRP, came/VBD, the/DT, US/NNP, in/IN, 1998/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My husband and I.
+Parse: [My/PRP$, husband/NN, and/CC, I./NNP]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence:  We have 2 children.
+Parse: [We/PRP, have/VBP, 2/CD, children/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I not work now.
+Parse: [I/PRP, not/RB, work/VBP, now/RB, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I come to the school to learn English for help my children.
+Parse: [I/PRP, come/VBP, to/TO, the/DT, school/NN, to/TO, learn/VB, English/NNP, for/IN, help/VB, my/PRP$, children/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I practice English at home I like second languages is very important for Future and Future for my children.
+Parse: [I/PRP, practice/VB, English/NNP, at/IN, home/NN, I/PRP, like/VBP, second/JJ, languages/NNS, is/VBZ, very/RB, important/JJ, for/IN, Future/NNP, and/CC, Future/NNP, for/IN, my/PRP$, children/NNS, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 3
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: is
+Computing Verb Tense Score: 
+ERROR: Missing Modal.
+ERROR: Too many verbs.
+
+Sentence: My name is Angela
+Parse: [My/PRP$, name/NN, is/VBZ, Angela/NNP]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I From Mexico
+Parse: [I/PRP, From/IN, Mexico/NNP]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence: I came the U.S. in 1998
+Parse: [I/PRP, came/VBD, the/DT, U.S./NNP, in/IN, 1998/CD]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My husband and I We have 2 children
+Parse: [My/PRP$, husband/NN, and/CC, I/NN, We/PRP, have/VBP, 2/CD, children/NNS]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I not work now because I come to the school to learn English for help my children
+Parse: [I/PRP, not/RB, work/VB, now/RB, because/IN, I/PRP, come/VBP, to/TO, the/DT, school/NN, to/TO, learn/VB, English/NNP, for/IN, help/VB, my/PRP$, children/NNS]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Modal.
+ERROR: Too many verbs.
+
+Sentence: I practice English at home I like second languages is very important for Future and Future for my children
+Parse: [I/NNP, practice/NN, English/NNP, at/IN, home/NN, I/NN, like/IN, second/JJ, languages/NNS, is/VBZ, very/RB, important/JJ, for/IN, Future/NNP, and/CC, Future/NNP, for/IN, my/PRP$, children/NNS]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My name is Esther .
+Parse: [My/PRP$, name/NN, is/VBZ, Esther/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am from Puerto Rico .
+Parse: [I/PRP, am/VBP, from/IN, Puerto/NNP, Rico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I have a son .
+Parse: [I/PRP, have/VBP, a/DT, son/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  He was born in Chicago on January 10 , 2000 .
+Parse: [He/PRP, was/VBD, born/VBN, in/IN, Chicago/NNP, on/IN, January/NNP, 10/CD, ,/,, 2000/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  He is 4 years and 4 months old .
+Parse: [He/PRP, is/VBZ, 4/CD, years/NNS, and/CC, 4/CD, months/NNS, old/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am 33 years old and single .
+Parse: [I/PRP, am/VBP, 33/CD, years/NNS, old/JJ, and/CC, single/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  But I have a boyfriend .
+Parse: [But/CC, I/PRP, have/VBP, a/DT, boyfriend/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My family is in Florida.
+Parse: [My/PRP$, family/NN, is/VBZ, in/IN, Florida/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  they like him.
+Parse: [they/PRP, like/VBP, him/PRP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My name is Esther. 
+Parse: [My/PRP$, name/NN, is/VBZ, Esther/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I am from Puerto Rico.
+Parse: [I/PRP, am/VBP, from/IN, Puerto/NNP, Rico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I have a son. 
+Parse: [I/PRP, have/VBP, a/DT, son/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: He was born in Chicago on January 10, 2000.
+Parse: [He/PRP, was/VBD, born/VBN, in/IN, Chicago/NNP, on/IN, January/NNP, 10/CD, ,/,, 2000/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: He is 4 years and 4 months old. 
+Parse: [He/PRP, is/VBZ, 4/CD, years/NNS, and/CC, 4/CD, months/NNS, old/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I am 33 years old and single.
+Parse: [I/PRP, am/VBP, 33/CD, years/NNS, old/JJ, and/CC, single/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: But I have a boyfriend. 
+Parse: [But/CC, I/PRP, have/VBP, a/DT, boyfriend/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My family is in Florida and they like him.
+Parse: [My/PRP$, family/NN, is/VBZ, in/IN, Florida/NNP, and/CC, they/PRP, like/VBP, him/PRP, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: like
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence:  My name is Carmen .
+Parse: [My/PRP$, name/NN, is/VBZ, Carmen/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I 'm came to Chicago.
+Parse: [I/PRP, 'm/VBP, came/VBD, to/TO, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence:  my family are here.
+Parse: [my/PRP$, family/NN, are/VBP, here/RB, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: are
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My father and sister and mother 's there go to Texas .
+Parse: [My/PRP$, father/NN, and/CC, sister/NN, and/CC, mother/NN, 's/VBZ, there/EX, go/VB, to/TO, Texas/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing TO Verb
+
+Sentence:  I 'm live whit my brothers .
+Parse: [I/PRP, 'm/VBP, live/RB, whit/VBN, my/PRP$, brothers/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence:  I like to learn English classes.
+Parse: [I/PRP, like/VBP, to/TO, learn/VB, English/JJ, classes/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I want to speak English.
+Parse: [I/PRP, want/VBP, to/TO, speak/VB, English/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  The English is very necessary in this country .
+Parse: [The/DT, English/NNP, is/VBZ, very/RB, necessary/JJ, in/IN, this/DT, country/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  The English is very important for many things .
+Parse: [The/DT, English/NNP, is/VBZ, very/RB, important/JJ, for/IN, many/JJ, things/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I 'm came USA for a life better .
+Parse: [I/PRP, 'm/VBP, came/VBD, USA/NNP, for/IN, a/DT, life/NN, better/RBR, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence: My name is Carmen.
+Parse: [My/PRP$, name/NN, is/VBZ, Carmen/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I'm came to Chicago because my family are here.
+Parse: [I/PRP, 'm/VBP, came/VBD, to/TO, Chicago/NNP, because/IN, my/PRP$, family/NN, are/VBP, here/RB, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+ERROR: Tense is wrong
+
+Sentence: My father and sister and mother's there go to Texas.
+Parse: [My/PRP$, father/NN, and/CC, sister/NN, and/CC, mother/NN, 's/VBZ, there/EX, go/VB, to/TO, Texas/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing TO Verb
+
+Sentence: I'm live whit my brothers.
+Parse: [I/PRP, 'm/VBP, live/RB, whit/VBN, my/PRP$, brothers/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence: I like to learn English classes because I want to speak English.
+Parse: [I/PRP, like/VBP, to/TO, learn/VB, English/JJ, classes/NNS, because/IN, I/PRP, want/VBP, to/TO, speak/VB, English/NNP, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence: The English is very necessary in this country.
+Parse: [The/DT, English/NNP, is/VBZ, very/RB, necessary/JJ, in/IN, this/DT, country/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: The English is very important for many things.
+Parse: [The/DT, English/NNP, is/VBZ, very/RB, important/JJ, for/IN, many/JJ, things/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I'm came U.S.A. for a life better.
+Parse: [I/PRP, 'm/VBP, came/VBD, U.S.A./NNP, for/IN, a/DT, life/NN, better/RBR, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence:  My name is Rosa two Girls Jessica and Karen.
+Parse: [My/PRP$, name/NN, is/VBZ, Rosa/NNP, two/CD, Girls/NNP, Jessica/NNP, and/CC, Karen/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  Jessica have 8 years old end Karen 4 years old.
+Parse: [Jessica/NNP, have/VBP, 8/CD, years/NNS, old/JJ, end/NN, Karen/NNP, 4/CD, years/NNS, old/JJ, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: have
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I comes to Chicago.
+Parse: [I/PRP, comes/VBZ, to/TO, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: comes
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  my husband have a your mom , brothers and cousins.
+Parse: [my/PRP$, husband/NN, have/VBP, a/DT, your/PRP$, mom/NN, ,/,, brothers/NNS, and/CC, cousins/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: have
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: mom, brothers and cousins.
+Parse: [mom/NN, ,/,, brothers/NNS, and/CC, cousins/NNS, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence: My name is Rosa two Girls Jessica and Karen
+Parse: [My/PRP$, name/NN, is/VBZ, Rosa/NNP, two/CD, Girls/NNP, Jessica/NNP, and/CC, Karen/NNP]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: Jessica have 8 years old end Karen 4 years old
+Parse: [Jessica/NNP, have/VBP, 8/CD, years/NNS, old/JJ, end/NN, Karen/NNP, 4/CD, years/NNS, old/JJ]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: have
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I comes to Chicago because my husband have a your mom, brothers and cousins
+Parse: [I/PRP, comes/VBZ, to/TO, Chicago/NNP, because/IN, my/PRP$, husband/NN, have/VBP, a/DT, your/PRP$, mom/NN, ,/,, brothers/NNS, and/CC, cousins/NNS]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: comes
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence:  My name is Brisaldino.
+Parse: [My/PRP$, name/NN, is/VBZ, Brisaldino/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I love my family I like Chicago.
+Parse: [I/PRP, love/VBP, my/PRP$, family/NN, I/NN, like/IN, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I like student English.
+Parse: [I/PRP, like/VBP, student/NN, English/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I am from Mexico.
+Parse: [I/PRP, am/VBP, from/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My son name is Jose he very active like player basketball an computer.
+Parse: [My/PRP$, son/NN, name/NN, is/VBZ, Jose/VBG, he/PRP, very/RB, active/JJ, like/IN, player/NN, basketball/NN, an/DT, computer/NN, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My mother live an Mexico.
+Parse: [My/PRP$, mother/NN, live/VBP, an/DT, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: live
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I call.
+Parse: [I/PRP, call/VBP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  every week I have 7 brothers 6 brothers and Chicago.
+Parse: [every/DT, week/NN, I/PRP, have/VBP, 7/CD, brothers/NNS, 6/CD, brothers/NNS, and/CC, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I love my family .
+Parse: [I/PRP, love/VBP, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My name is Brisaldino I love my family I like Chicago
+Parse: [My/PRP$, name/NN, is/VBZ, Brisaldino/NNP, I/PRP, love/VBP, my/PRP$, family/NN, I/NN, like/IN, Chicago/NNP]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: love
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence: I like student English I am from Mexico
+Parse: [I/PRP, like/VBP, student/NNP, English/NNP, I/PRP, am/VBP, from/IN, Mexico/NNP]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence: My son name is Jose he very active like player basketball an computer
+Parse: [My/PRP$, son/NN, name/NN, is/VBZ, Jose/VBG, he/PRP, very/RB, active/JJ, like/IN, player/NN, basketball/NN, an/DT, computer/NN]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My mother live an Mexico I call every week I have 7 brothers 6 brothers and Chicago.
+Parse: [My/PRP$, mother/NN, live/VBP, an/DT, Mexico/NNP, I/PRP, call/VBP, every/DT, week/NN, I/PRP, have/VBP, 7/CD, brothers/NNS, 6/CD, brothers/NNS, and/CC, Chicago/NNP, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 3
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: live
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+ERROR: Too many verbs.
+
+Sentence: I love my family.
+Parse: [I/PRP, love/VBP, my/PRP$, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My name is Maria come to Chicago.
+Parse: [My/PRP$, name/NN, is/VBZ, Maria/NNP, come/VBN, to/TO, Chicago/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+
+Sentence:  my daughter live here for 3 years.
+Parse: [my/PRP$, daughter/NN, live/VBP, here/RB, for/IN, 3/CD, years/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: live
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I want.
+Parse: [I/PRP, want/VBP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  seen her I loves my daughter beautiful.
+Parse: [seen/VBN, her/PRP, I/PRP, loves/VBZ, my/PRP$, daughter/NN, beautiful/JJ, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: loves
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence:  I am have 1 girl 1 son.
+Parse: [I/PRP, am/VBP, have/VBP, 1/CD, girl/NN, 1/CD, son/NN, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+
+Sentence:  they is studying in the US.
+Parse: [they/PRP, is/VBZ, studying/VBG, in/IN, the/DT, US/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: is
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  is for his life better.
+Parse: [is/VBZ, for/IN, his/PRP$, life/NN, better/RBR, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My name is Maria come to Chicago because my daughter live here for 3 years I want seen her I loves my daughter beautiful
+Parse: [My/PRP$, name/NN, is/VBZ, Maria/NNP, come/VBN, to/TO, Chicago/NNP, because/IN, my/PRP$, daughter/NN, live/VBP, here/RB, for/IN, 3/CD, years/NNS, I/PRP, want/VBP, seen/VBN, her/PRP, I/PRP, loves/VBZ, my/PRP$, daughter/NN, beautiful/JJ]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 5
+Computing Agreement Score: 
+ERROR: Error with tag: VBP for word: live
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+ERROR: Too many verbs.
+ERROR: Too many verbs.
+
+Sentence: I am have 1 girl 1 son they is studying in the US because is for his life better
+Parse: [I/PRP, am/VBP, have/VBN, 1/CD, girl/NN, 1/CD, son/NN, they/PRP, is/VBZ, studying/VBG, in/IN, the/DT, US/NNP, because/IN, is/VBZ, for/IN, his/PRP$, life/NN, better/RBR]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 3
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: is
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+ERROR: Too many verbs.
+
+Sentence:  My name is Aurora Garcia.
+Parse: [My/PRP$, name/NN, is/VBZ, Aurora/NNP, Garcia/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I likes English to learn.
+Parse: [I/PRP, likes/VBZ, English/NNP, to/TO, learn/VB, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: likes
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I understands with my supervisor.
+Parse: [I/PRP, understands/VBZ, with/IN, my/PRP$, supervisor/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: understands
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  his talking only English.
+Parse: [his/PRP$, talking/NN, only/RB, English/JJ, ./.]
+Computing Word Order Score: 
+ERROR: No Subject Found.
+Computing Agreement Score: 
+ERROR: No Subject Found.
+Computing Verb Tense Score: 
+ERROR: Missing verb.
+
+Sentence:  he has two dogs.
+Parse: [he/PRP, has/VBZ, two/CD, dogs/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I in the factory glasses work.
+Parse: [I/PRP, in/IN, the/DT, factory/NN, glasses/VBZ, work/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+ERROR: Error with tag: VBZ for word: glasses
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My name is Aurora Garcia I likes English to learn because I understands with my supervisor
+Parse: [My/PRP$, name/NN, is/VBZ, Aurora/NNP, Garcia/NNP, I/PRP, likes/VBZ, English/NNP, to/TO, learn/VB, because/IN, I/PRP, understands/VBZ, with/IN, my/PRP$, supervisor/NN]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 4
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Too many verbs.
+ERROR: Too many verbs.
+
+Sentence: his talking only English he has two dogs I in the factory glasses work
+Parse: [his/PRP$, talking/VBG, only/JJ, English/JJ, he/PRP, has/VBZ, two/CD, dogs/NNS, I/NN, in/IN, the/DT, factory/NN, glasses/NNS, work/NN]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+ERROR: Tense is wrong
+
+Sentence:  My name is Mary Sanchez .
+Parse: [My/PRP$, name/NN, is/VBZ, Mary/NNP, Sanchez/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I was born in Chihuahua , Mexico .
+Parse: [I/PRP, was/VBD, born/VBN, in/IN, Chihuahua/NNP, ,/,, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  In Mexico I have a big and wonderful family .
+Parse: [In/IN, Mexico/NNP, I/PRP, have/VBP, a/DT, big/JJ, and/CC, wonderful/JJ, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I have four sisters and two brothers .
+Parse: [I/PRP, have/VBP, four/CD, sisters/NNS, and/CC, two/CD, brothers/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  My parents are 44 years of marriage .
+Parse: [My/PRP$, parents/NNS, are/VBP, 44/CD, years/NNS, of/IN, marriage/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  They are in Mexico .
+Parse: [They/PRP, are/VBP, in/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I wanted to learn English to help my children and to know more people .
+Parse: [I/PRP, wanted/VBD, to/TO, learn/VB, English/NNP, to/TO, help/VB, my/PRP$, children/NNS, and/CC, to/TO, know/VB, more/JJR, people/NNS, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+ERROR: Missing TO Verb
+ERROR: Too many verbs.
+
+Sentence: My name is Mary Sanchez.
+Parse: [My/PRP$, name/NN, is/VBZ, Mary/NNP, Sanchez/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I was born in Chihuahua, Mexico.
+Parse: [I/PRP, was/VBD, born/VBN, in/IN, Chihuahua/NNP, ,/,, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: In Mexico I have a big and wonderful family.
+Parse: [In/IN, Mexico/NNP, I/PRP, have/VBP, a/DT, big/JJ, and/CC, wonderful/JJ, family/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I have four sisters and two brothers.
+Parse: [I/PRP, have/VBP, four/CD, sisters/NNS, and/CC, two/CD, brothers/NNS, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: My parents are 44 years of marriage.
+Parse: [My/PRP$, parents/NNS, are/VBP, 44/CD, years/NNS, of/IN, marriage/NN, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: They are in Mexico.
+Parse: [They/PRP, are/VBP, in/IN, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I wanted to learn English to help my children and to know more people.
+Parse: [I/PRP, wanted/VBD, to/TO, learn/VB, English/NNP, to/TO, help/VB, my/PRP$, children/NNS, and/CC, to/TO, know/VB, more/JJR, people/NNS, ./.]
+Computing Word Order Score: 
+ERROR: Multiple Subjects: 2
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+ERROR: Missing TO Verb
+ERROR: Too many verbs.
+
+Sentence:  My name is Sonia .
+Parse: [My/PRP$, name/NN, is/VBZ, Sonia/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I was born in 1973 in Guerrero Mexico .
+Parse: [I/PRP, was/VBD, born/VBN, in/IN, 1973/CD, in/IN, Guerrero/NNP, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence:  I getting my first job in 1988 .
+Parse: [I/PRP, getting/VBG, my/PRP$, first/JJ, job/NN, in/IN, 1988/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence:  I learning to drive in 2004 .
+Parse: [I/PRP, learning/VBG, to/TO, drive/VB, in/IN, 2004/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence:  I finishing school in 1987 .
+Parse: [I/PRP, finishing/VBG, school/NN, in/IN, 1987/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence:  I got marrying in 1990 and had my first child in 1994 .
+Parse: [I/PRP, got/VBD, marrying/VBG, in/IN, 1990/CD, and/CC, had/VBD, my/PRP$, first/JJ, child/NN, in/IN, 1994/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+ERROR: Tense is wrong
+
+Sentence: My name is Sonia. 
+Parse: [My/PRP$, name/NN, is/VBZ, Sonia/JJ, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I was born in 1973 in Guerrero Mexico.
+Parse: [I/PRP, was/VBD, born/VBN, in/IN, 1973/CD, in/IN, Guerrero/NNP, Mexico/NNP, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+No Errors.
+
+Sentence: I getting my first job in 1988.
+Parse: [I/PRP, getting/VBG, my/PRP$, first/JJ, job/NN, in/IN, 1988/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence: I learning to drive in 2004. 
+Parse: [I/PRP, learning/VBG, to/TO, drive/VB, in/IN, 2004/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence: I finishing school in 1987.
+Parse: [I/PRP, finishing/VBG, school/NN, in/IN, 1987/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Missing Verb.
+
+Sentence: I got marrying in 1990 and had my first child in 1994.
+Parse: [I/PRP, got/VBD, marrying/VBG, in/IN, 1990/CD, and/CC, had/VBD, my/PRP$, first/JJ, child/NN, in/IN, 1994/CD, ./.]
+Computing Word Order Score: 
+No Errors.
+Computing Agreement Score: 
+No Errors.
+Computing Verb Tense Score: 
+ERROR: Tense is wrong
+ERROR: Tense is wrong
